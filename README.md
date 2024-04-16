@@ -30,5 +30,5 @@
   + Create line (parabole) using linear regression algorithm.
   + Create an animation that represents the initial line (parabole) gradually descending to the line (parabole) that a linear regression algorithm created.
 - Reference (Vietnamese version): https://machinelearningcoban.com/2017/01/12/gradientdescent/
-- Special thanks (English version): https://dunglai.github.io/2017/12/21/gradient-descent/
+- Reference (English version): https://dunglai.github.io/2017/12/21/gradient-descent/
 - Through this project, participants will gain hands-on experience implementing optimization algorithms, understanding the role of gradients in optimization, and visualizing optimization processes using Python.
